@@ -1,0 +1,2 @@
+# lecteru
+be a programmer
